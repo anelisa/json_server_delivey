@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "restaurantes": [
+    {
+      "id": 1,
+      "nome": "Hamburgueria do João",
+      "taxaEntrega": 10.00
+    },
+    {
+      "id": 2,
+      "nome": "MC Donalds do Cabral",
+      "taxaEntrega": 8.00
+    },
+    {
+      "id": 3,
+      "nome": "Moleques lanches",
+      "taxaEntrega": 6.00
+    },
+    {
+      "id": 4,
+      "nome": "Padaria Essencial",
+      "taxaEntrega": 4.00
+    },
+    {
+      "id": 5,
+      "nome": "The Best Açai",
+      "taxaEntrega": 7.50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "restaurantes": [
+    {
+        "id": 1,
+        "nome": "Hamburgueria do João",
+        "taxa-entrega": 10.00
+    },
+    {
+        "id": 2,
+        "nome": "MC Donalds do Cabral",
+        "taxa-entrega": 8.00
+    },
+    {
+        "id": 3,
+        "nome": "Moleques lanches",
+        "taxa-entrega": 6.00
+    },
+    {
+        "id": 4,
+        "nome": "Padaria Essencial",
+        "taxa-entrega": 4.00
+    },
+    {
+        "id": 5,
+        "nome": "The Best Açai",
+        "taxa-entrega": 7.50
+    }
+]
+}
